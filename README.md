@@ -172,7 +172,7 @@ Total time: under 2 minutes.
 I recorded a full explanation of every step, every chart,
 and every finding in plain simple language.
 
-🎥 [Watch the full walkthrough here](PASTE_YOUR_VIDEO_LINK_HERE)
+🎥 [Watch the full walkthrough here](https://drive.google.com/file/d/1NUCh5EeJP4L-T1A95WJix1m54SzlIxaP/view?usp=sharing)
 
 ---
 
