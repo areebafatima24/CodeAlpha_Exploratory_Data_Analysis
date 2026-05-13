@@ -96,49 +96,42 @@ itself a finding worth noting.
 ### Image 1 — Distribution of average score
 > Shows how scores are spread across all 100 students
 
-![Score Distribution](distribution_avg_score.png)
+![Average Score](average_score.png)
 
 ---
 
-### Image 2 — Study hours vs average score
+### Image 2 — Study hours per day
 > Each dot is one student — the upward trend is clear
 
-![Study Hours vs Score](study_hours_vs_score.png)
+![Study Hours Per Day](study_hours_per_day.png)
 
 ---
 
-### Image 3 — Attendance vs average score
+### Image 3 — Attendance percentage vs score
 > Attendance helps, but the pattern is weaker than study hours
 
-![Attendance vs Score](attendance_vs_score.png)
+![Attendance Percentage](attendance_percentage.png)
 
 ---
 
 ### Image 4 — Average score by gender
 > Comparing male and female student performance side by side
 
-![Score by Gender](score_by_gender.png)
+![Average Score By Gender](average_score_by_gender.png)
 
 ---
 
-### Image 5 — Study hours: pass vs fail students
+### Image 5 — Hypothesis 1: Study hours pass vs fail
 > Pass students clearly study more on average
 
-![Pass Fail](study_hours_vs_passfail.png)
+![Hypothesis 1](hypothesis_1.png)
 
 ---
 
-### Image 6 — Correlation heatmap
+### Image 6 — Hypothesis 2: Correlation heatmap
 > Shows how strongly every variable relates to every other variable
 
-![Correlation Heatmap](correlation_heatmap.png)
-
----
-
-### Image 7 — Missing values heatmap
-> Reveals exactly where data is missing before we do anything else
-
-![Missing Values](missing_values_heatmap.png)
+![Hypothesis 2](hypothesis_2.png)
 
 ---
 
@@ -182,13 +175,12 @@ and every finding in plain simple language.
 |------|-----------|
 | `task2_eda_student_performance.ipynb` | Full notebook with all code and outputs |
 | `task2_eda_walkthrough.mp4` | Video explanation of every step |
-| `distribution_avg_score.png` | Image 1 — score distribution |
-| `study_hours_vs_score.png` | Image 2 — study hours vs score |
-| `attendance_vs_score.png` | Image 3 — attendance vs score |
-| `score_by_gender.png` | Image 4 — score by gender |
-| `study_hours_vs_passfail.png` | Image 5 — pass vs fail study hours |
-| `correlation_heatmap.png` | Image 6 — correlation heatmap |
-| `missing_values_heatmap.png` | Image 7 — missing values |
+| `average_score.png` | Image 1 — score distribution |
+| `study_hours_per_day.png` | Image 2 — study hours per day |
+| `attendance_percentage.png` | Image 3 — attendance percentage |
+| `average_score_by_gender.png` | Image 4 — score by gender |
+| `hypothesis_1.png` | Image 5 — pass vs fail study hours |
+| `hypothesis_2.png` | Image 6 — correlation heatmap |
 
 ---
 
